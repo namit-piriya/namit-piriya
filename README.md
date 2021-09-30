@@ -14,13 +14,11 @@
 <br/>
 
 
-- 🔭 I’m currently working in Zerone Microsystems as Backend Developer.
-- 🌱 I’m forever a student of life.
+- 🔭 I’m currently working at Bimaplan.co as Software Engineer Full Stack.
 - 📫 How to reach me: [email](mailto:namitpiriya945@gmail.com), [LinkedIn](https://linkedin.com/in/namit-piriya)
 - 😄 Pronouns: He/His
 
 ### Languages and Tools:  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <br/>
 
