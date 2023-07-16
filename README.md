@@ -1,4 +1,4 @@
-## Hi, I'm [Namit Piriya] 👋
+## Hi, I'm Namit Piriya 👋
 
 
 <a href="https://twitter.com/PiriyaNamit">
